@@ -91,7 +91,7 @@
                     <a style="text-decoration: none; float: right; color: aqua" href="signin.php">All Ready Have an Account</a><br><br>
                     <center><button id="signup" class="btn btn-info btn-lg" name="sign_up" >Signup</button></center>
                     <?php
-                    include (insert_user.php);
+                    include (Insert_User.php);
                     ?>
                 </form>
             </div>
