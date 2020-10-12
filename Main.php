@@ -55,7 +55,7 @@
          <h2><strong>Reach TO Millions By Your Voice </strong></h2>
          <h4><strong>Join Voice Today</strong></h4>
          <form method="post" action="">
-              <button id="signup" class="btn btn-info btn-ig" name="signup" onclick="signup.php">signup</button><br> <br></a>
+              <button id="signup" class="btn btn-info btn-ig" name="signup" onclick="Signup.php">signup</button><br> <br></a>
              
          </form>
      </div>
