@@ -56,7 +56,7 @@
     <div class="col-sm-12">
         <div class="main-content">
             <div class="header">
-                <h3 style="text-align: center;"><strong>Login to Voice</strong></h3><hr>
+                <h3 style="text-align: center;"><strong>Create An Account</strong></h3><hr>
             </div>
             <div class="l-part">
                 <form action="" method="post">
