@@ -65,7 +65,7 @@
                         <input type="password" name="pass" placeholder="Password" required="required" class="form-control input-md"><br>
                         <a style="text-decoration: none;" color:"#187FAB"; float:"right"; href="forgot_password.php">Forgot?</a>
                     </div>
-                    <a style="text-decoration: none; float: right; color: aqua" href="signin.php">Don't Have an Account</a><br><br>
+                    <a style="text-decoration: none; float: right; color: aqua" href="signup.php">Don't Have an Account</a><br><br>
                     <center><button id="signin" class="btn btn-info btn-lg" name="login" >Login</button>php</center>
                     <?php
                     include ("login.php");
