@@ -1,8 +1,0 @@
-label{
-    padding: 7px;
-    display: table;
-    color: aqua;
-}
-input[type="file"]{
-    display: none;
-}
